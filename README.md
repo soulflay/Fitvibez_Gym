@@ -3,6 +3,10 @@
 Welcome to FitVibez, where we energize your screen with fitness, flair, and fun!  
 This is a vibrant, fully responsive static website designed just for a fictitious—but oh-so-exciting—gym.
 
+THE VISION AND PROJECT ORIGINS
+this was just a spirited portfolio piece to display foundational web design muscles—completely handcrafted with HTML, CSS, and JavaScript: no frameworks, no stress, total control. it was quite tedious.
+might recreate with React later and add more functionalities.
+
 ---
 
 The Features that Bring the Vibe
@@ -36,6 +40,4 @@ The Features that Bring the Vibe
    ``` open index.html
 
 
-THE VISION AND PROJECT ORIGINS
-this was just a spirited portfolio piece to display foundational web design muscles—completely handcrafted with HTML, CSS, and JavaScript: no frameworks, no stress, total control. it was quite tedious.
-might recreate with React later and add more functionalities.
+
